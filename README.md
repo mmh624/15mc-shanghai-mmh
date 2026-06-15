@@ -12,7 +12,7 @@
 
 > *Note: the project's working title (and the brief) used an approximate figure of "~25,000 grid cells." The final clipped grid came out to 31,374 — see Section 01 for why.*
 > *说明：项目最初的工作标题及brief中使用的是"约25,000个网格"的估算值。最终裁剪后的网格实际为31,374个——具体原因见第01节。*
-
+performance (<4 s), mobilesupport is ok
 **Live demo / 在线演示:** [上海15分钟夜生活可达性地图](https://mmh624.github.io/shanghai-map/shanghai_nightlife_bmap.html)
 **Source code (web app) / 源代码（网页应用）:** [github.com/mmh624/shanghai-map](https://github.com/mmh624/shanghai-map)
 **Project board / 项目看板:** [Trello — 15MC Shanghai – Mei Minghao](https://trello.com/b/ioUOj5oi/15mc-shanghai-mei-minghao)
